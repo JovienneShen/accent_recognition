@@ -1,0 +1,8 @@
+                       precision    recall  f1-score   support
+
+      ENGLAND ENGLISH       0.93      0.66      0.77      6946
+UNITED STATES ENGLISH       0.74      0.95      0.83      6931
+
+             accuracy                           0.81     13877
+            macro avg       0.84      0.81      0.80     13877
+         weighted avg       0.84      0.81      0.80     13877
